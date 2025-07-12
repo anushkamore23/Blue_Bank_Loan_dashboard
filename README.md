@@ -32,7 +32,7 @@ This dashboard provides a **comprehensive overview** of:
 - Data cleaning and transformation was done using Python.
 
 🔗 Python script available here:  
-[`blue_bank_loan.py`](https://github.com/anushkamore23/Python-Tableau/blob/main/Blue_bank_loan.py)
+[`blue_bank_loan.py`](https://github.com/anushkamore23/Blue_Bank_Loan_dashboard/blob/main/Blue_bank_loan.py)
 
 ---
 
@@ -67,7 +67,8 @@ This dashboard provides a **comprehensive overview** of:
 | **Tableau** | Visualization and dashboard development  |
 | **Excel/CSV** | Original data source                   |
 
----
+<img width="500" height="500" alt="Bluebankloan_img" src="https://github.com/user-attachments/assets/3032a981-3113-4600-9019-44d014ff4ed8" />
+
 
 
 
