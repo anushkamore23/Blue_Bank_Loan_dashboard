@@ -67,7 +67,7 @@ This dashboard provides a **comprehensive overview** of:
 | **Tableau** | Visualization and dashboard development  |
 | **Excel/CSV** | Original data source                   |
 
-<img width="500" height="500" alt="Bluebankloan_img" src="https://github.com/user-attachments/assets/3032a981-3113-4600-9019-44d014ff4ed8" />
+<img width="1000" height="1000" alt="Bluebankloan_img" src="https://github.com/user-attachments/assets/3032a981-3113-4600-9019-44d014ff4ed8" />
 
 
 
